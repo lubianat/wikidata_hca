@@ -1,0 +1,14 @@
+in HCA white paper?,part of the text where it is mentioned,Concepts,Item in Wikidata,Subclass of,Instance of,part of
+yes,introduction,hepatocyte,Q68620794,,Q189118,Q68487022
+yes,introduction,EPCAM+ bile duct cell,Q68620808,,Q189118,Q68487022
+yes,introduction,CLEC4G+ liver sinusoidal endothelial cells (LSECs),Q68620792,,Q189118,Q68487022
+yes,introduction,hepatic stellate cells,Q68620817,,Q189118,Q68487022
+yes,introduction,Kupffer cells,Q68620790,,Q189118,Q68487022
+no,introduction,human periportal LSECs,,Q68620792,Q189118,Q68487022
+no,introduction,human midzonal LSECs,,Q68620792,Q189118,Q68487022
+no,introduction,human central LSECs,,Q68620792,Q189118,Q68487022
+no,introduction,human myofibroblasts,,Q1467330,Q189118,Q68487022
+no,introduction,human CD34+ PECAM high macrovascular endothelial cells (MaVECs),,Q68621315,Q189118,Q68487022
+no,results,EPCAM+ TROP2-int cholangiocyte ,Q70906206,Q68620808,Q189118,Q68487022
+no,results,circulating MS4A1+CD37+ subset of B cells,,Q68620797,Q189118,Q68487022
+no,results,liver-resident MZB1+ subset of B cells,,Q68620797,Q189118,Q68487022
